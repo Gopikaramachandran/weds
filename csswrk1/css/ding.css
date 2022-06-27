@@ -1,0 +1,1032 @@
+body
+{
+	margin:0px;
+	padding:0px;
+}
+.w1
+{
+	position:fixed;
+	width:100%;
+	height:90px;
+	background:WHITE;
+	padding-bottom:10px;
+}
+.slider
+{
+	width:1500px;
+	padding-top:150px;
+}
+.save
+{
+	width:300px;
+	height:300px;
+	margin-top:-810px;
+	margin-left:500px;
+}
+.we1
+{
+	position:relative;
+	background:white;
+	width:850px;
+	margin-top:-150px;
+	margin-left:500px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:19px;
+}
+ul
+ {
+  margin: 0px;
+  padding: 0px; 
+  list-style-type:none;
+  overflow:hidden;
+  position:fixed;
+  width:100%;
+ }
+ li
+ {
+	 float:left;
+	 text-align:center;
+	 text-decoration:none;
+	 color:#4c4c4c;
+	 padding:14px 16px;
+	 display:block;
+	 height:25px;
+	 letter-spacing:2px;
+	 padding-top:10px;
+ }
+li a:hover
+	{
+		color:red;
+	}
+  
+.logo
+{
+	position:relative;
+	width:200px;
+	height:200px;
+	background:white;
+	border-radius:1000px;
+}
+.bg
+{
+	width:100%;
+	height:500px;
+	margin-top:-300px;
+}
+.heart
+{
+	width:320px;
+	height:290px;
+	margin-top:-610px;
+	padding-left:500px;
+}
+.w3
+{
+	width:300px;
+	height:300px;
+	margin-top:-400px;
+	padding-left:10px;
+}
+.w4
+{
+	width:400px;
+	height:200px;
+	margin-top:-250px;
+	margin-left:400px;
+}
+.w5
+{
+	width:300px;
+	height:300px;
+	margin-top:-300px;
+	margin-left:900px;
+}
+.cg
+{
+	margin-top:-25px;
+	margin-left:-21px;
+}
+.w4 h1
+{
+	margin-left:60px;
+}
+.w4 p
+{
+	text-align:justify;
+	text-align:center;
+	margin-left:13px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+}
+.cb
+{
+	margin-top:-23px;
+	margin-left:-5px;
+}
+h1:hover
+{
+	color:#f24d5f;
+}
+p
+{
+	color:#5a5a5a;
+}
+.w6
+{
+	width:300px;
+	height:260px;
+	background:white;
+	margin-top:80px;
+	margin-left:50px;
+}
+.w6 p
+{
+	text-align:justify;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+}
+.s1
+{
+	padding-left:2px;
+}
+.sign
+{
+	padding-left:3px;
+	padding-bottom:20px;
+}
+.s2
+{
+	padding-left:2px;
+}
+.signt
+{
+	padding-left:3px;
+}
+.cc
+{
+	margin-top:-350px;
+	
+}
+.w7
+{
+	width:300px;
+	height:250px;
+	background:white;
+	padding-bottom:100px;
+	padding-left:450px;
+}
+.w8
+{
+	width:300px;
+	background:white;
+	padding-left:500px;
+
+}
+.w8 p
+{
+	text-align:justify;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+		margin-bottom:80px;
+}
+.w8 h1
+{
+	padding-top:-300px;
+	margin-top:-240px;
+	
+}
+.sec
+{
+	height:800px;
+	width:1350px;
+	padding-bottom:-300px;
+	background-image:url(../Wedding/assets/images/section-bg.jpg);
+	
+}
+
+	.tran
+	{
+		height:800px;
+		width:1340px;
+		background-color:rgba(0,0,0,0.5);
+		padding-left:-500px;
+	}
+	.tran h2
+	{
+		padding-top:400px;
+		text-align:center;
+		padding-right:10px;
+		font-size:60px;
+		font-weight:100;
+	}
+	.w9 h2
+	{
+		text-align:center;
+		padding:100px;
+		color:black;
+		font-weight:100;
+		letter-spacing:5px;
+	}
+	.w10 ul
+	{
+		position:relative;
+		list-style-type:none;
+		margin-top:150px;
+		padding:0px;
+		overflow:hidden;
+		width:80%;
+		border-bottom:1px solid #d0d0d0;
+		padding-left:300px;
+
+	}
+	.w10 li
+	{
+		float:left;
+	}
+	.w10 li
+	{
+		text-align:center;
+		text-decoration:none;
+		font-size:25px;
+		padding:14px 16px;
+		color:#acacac;
+		margin-left:100px;
+		font-weight:100;
+	}
+	.w10 a:hover
+	{
+		color:black;
+		border-bottom:1px solid #f0394d;
+	}
+	.ii1
+	{
+		margin-left:55px;
+	}
+	.ii2
+	{
+		margin-left:50px;
+	}
+	.ii3
+	{
+		margin-left:50px;
+	}
+	.ii4
+	{
+		margin-left:50px;
+	}
+	.w11
+	{
+		width:83%;
+		height:240px;
+		background:white;
+		margin-left:180px;
+		border-bottom:1px solid #d0d0d0;
+	}
+	.hear1
+	{
+		margin-top:32px;
+		margin-left:167px;
+	}
+	.hear2
+	{
+		margin-top:32px;
+		margin-left:190px;
+	}
+	.hear3
+	{
+		margin-top:12px;
+		margin-left:190px;
+	}
+	.hear4
+	{
+		margin-top:32px;
+		margin-left:190px;
+	}
+	.he1
+	{
+		width:18%;
+		height:300px;
+		color:#737373;
+		margin-left:200px;
+		margin-top:20px;	
+	}
+	.he2
+	{
+		width:18%;
+		height:300px;
+		color:#737373;
+		margin-left:460px;
+		margin-top:-300px;	
+	}
+	.he3
+	{
+		width:18%;
+		height:300px;
+		color:#737373;
+		margin-left:720px;
+		margin-top:-300px;	
+	}
+	.he4
+	{
+		width:18%;
+		height:300px;
+		color:#737373;
+		margin-left:980px;
+		margin-top:-300px;	
+	}
+	.he2 h3
+	{
+		margin-top:-200px;
+	}
+	.he3 h3
+	{
+		margin-top:-200px;
+	}
+	.he4 h3
+	{
+		margin-top:-200px;
+	}
+	.he1 p
+	{
+		font-size:16px;
+		font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+	.he2 p
+	{
+		font-size:16px;
+		font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+	.he3 p
+	{
+		font-size:16px;
+		font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+	.he4 p
+	{
+		font-size:16px;
+		font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+	.back
+	{
+		width:100%;
+		float:left;
+		margin-top:-70px;
+	}
+	.w12
+	{
+		width:100%;
+		background-color:#ebebeb;
+		padding-top:10px;
+		height:1300px;
+	}
+	.w12 h2
+	{
+		
+		text-align:center;
+		padding-bottom:-100px;
+		color:black;
+		font-weight:100;
+		font-size:66px;
+	}
+	
+	.w12 p
+	{
+		text-align:center;
+		font-size:18px;
+		letter-spacing:5px;
+		font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+		margin-top:-50px;
+	}
+	.w12 ul
+	{
+		position:relative;
+		list-style-type:none;
+		margin-top:150px;
+		padding:0px;
+		overflow:hidden;
+		width:80%;
+		border-bottom:1px solid #d0d0d0;
+		padding-left:300px;
+
+	}
+	.w12 li
+	{
+		float:left;
+	}
+	.w12 li
+	{
+		text-align:center;
+		text-decoration:none;
+		font-size:25px;
+		padding:10px 12px;
+		color:#acacac;
+		margin-left:100px;
+		font-weight:100;
+	}
+	.w12 a:hover
+	{
+		color:black;
+		border-bottom:1px solid #f0394d;
+	}
+	.wi12
+	{
+		margin-top:60px;
+		background:white;
+		width:87%;
+		margin-left:80px;
+		margin-right:80px;
+		height:750px;
+	}
+	
+	.wi1
+	{
+		width:30%;
+		height:725px;
+		margin-left:19px;
+	}
+	.wi2
+	{
+		width:28%;
+		height:723px;
+		margin-left:374px;
+		padding-left:18px;
+		margin-top:-724px;
+	}
+	.wi3
+	{
+		width:35%;
+		height:725px;
+		margin-left:737px;
+		margin-top:-720px;
+	}
+	.ima1
+	{
+		padding-top:20px;
+		padding-bottom:28px;
+	}
+	.ima2
+	{
+		padding:0px;
+	}
+	.ima3
+	{
+		padding-right:20px;
+		padding-top:20px;
+	
+	}
+	.ima4
+	{
+		padding-left:20px;
+		padding-top:20px;
+		padding-bottom:28px;
+	}
+	.ima5
+	{
+	padding-left:20px;
+	}
+	.w13
+	{
+		
+		margin-top:130px;
+
+	}
+	.ima6
+	{
+		width:50%;
+		height:500px;
+		padding-left:700px;
+		
+	}
+	.wi13
+	{
+		width:55%;
+		height:500px;
+		background-color:rgba(0,0,0,0.7);
+	}
+	.wo13
+	{
+		margin-left:5px;
+		margin-top:-500px;
+		
+	}
+	.wm13
+	{
+		width:23%;
+		height:300px;
+		background-color:#122d48;
+		margin-left:550px;
+		margin-top:0px;	
+		overflow:hidden;
+	}
+	.wm13 h3
+	{
+		background-color:#f0394d;
+		text-align:center;
+		font-size:23px;
+		width:50%;
+		height:40PX;
+		margin-top:1px;
+		margin-left:65px;
+	}
+	.wm13 p
+	{
+		color:white;
+		font-size:17px;
+		letter-spacing:0px;
+		padding-top:50px;
+	}
+	.wm13 h4
+	{
+		text-align:center;
+		font-size:22px;
+	}
+	.ima7
+	{
+		padding-left:110px;
+	}
+	.w14 h1
+	{
+		text-align:center;
+		font-size:23px;
+		width:40%;
+		height:200px;
+		margin-top:-200px;
+		margin-left:5px;
+		color:black;
+	}
+	.w14 p
+	{
+		font-size:20px;
+		color:black;
+		margin-top:-150px;
+		font-family:"Times New Roman", Times, serif;
+		letter-spacing:0px;
+		margin-left:-850px;
+		line-height:46px;
+	}
+		
+	.w15 h2
+	{
+		text-align:center;
+		font-size:24px;
+		width:40%;
+		height:200px;
+		margin-top:-200px;
+		margin-left:800px;
+		color:black;
+	}
+	.w15 p
+	{
+		font-size:20px;
+		color:black;
+		margin-top:-170px;
+		font-family:"Times New Roman", Times, serif;
+		letter-spacing:0px;
+		margin-left:830px;
+	}
+	.w16
+	{
+		padding-top:300px;
+		padding-left:330px;
+	}
+	.ima8
+	{
+		padding:0px;
+	}
+	.w16 h1
+	{
+		text-align:center;
+		font-size:80px;
+		color:#939393;
+		margin-top:-755px;
+		margin-left:-330px;
+	}
+	.w16 p
+	{
+		font-family::"Times New Roman", Times, serif;
+		margin-left:-300px;
+		letter-spacing:0px;
+		font-size:23px;
+		font-weight:20;
+	} 
+	.f1
+	{
+		width:20%;
+		height:30px;
+		border:hidden;
+	}
+	.form1
+	{
+		display:inline-block;
+	border:1px solid #CCC;
+	box-shadow:0px 0px 20px lightgrey;
+	width:180%;
+	height:40px;
+	margin-top:23px;
+	margin-left:150px;
+	border-radius:0px;
+	box-sizing:border-box;
+	}
+	.f2
+	{
+		width:20%;
+		height:30px;
+		border:hidden;
+	}
+	.form2
+	{
+		display:inline-block;
+	border:1px solid #CCC;
+	box-shadow:0px 0px 20px lightgrey;
+	width:180%;
+	height:40px;
+	margin-top:65px;
+	margin-left:150px;
+	border-radius:0px;
+	box-sizing:border-box;
+	}
+	.f3
+	{
+		width:20%;
+		height:30px;
+	}
+	.numb
+	{
+		display:inline-block;
+	border:1px solid #CCC;
+	box-shadow:0px 0px 20px lightgrey;
+	width:78%;
+	height:40px;
+	color:grey;
+	margin-top:100px;
+	margin-left:150px;
+	border-radius:0px;
+	box-sizing:border-box;
+	}
+	.f4
+	{
+		width:20%;
+		height:30px;
+	}
+	.numb1
+	{
+		display:inline-block;
+	border:1px solid #CCC;
+	box-shadow:0px 0px 20px lightgrey;
+	width:78%;
+	height:40px;
+	color:grey;
+	margin-top:70px;
+	margin-left:350px;
+	border-radius:0px;
+	box-sizing:border-box;
+	}
+	.f5
+	{
+		width:20%;
+		height:30px;
+	}
+	.form3
+	{
+		display:inline-block;
+	border:1px solid #CCC;
+	box-shadow:0px 0px 20px lightgrey;
+	width:180%;
+	height:140px;
+	color:grey;
+	margin-top:130px;
+	margin-left:147px;
+	border-radius:0px;
+	box-sizing:border-box;
+	}
+	.f6
+	{
+		width:20%;
+		height:30px;
+	}
+	.subm
+	{
+		display:inline-block;
+	border:1px solid #CCC;
+	width:64%;
+	height:40px;
+	color:white;
+	font-size:18px;
+	background-color:#f24d5f;
+	border-radius:1000px;
+	box-sizing:border-box;
+	margin-top:280px;
+	margin-left:280px;
+	}
+	.sec1
+{
+	height:800px;
+	width:1350px;
+	padding-bottom:-300px;
+	background-image:url(../Wedding/assets/images/section-bg.jpg);
+	margin-top:500px;
+	
+}
+
+	.tran1
+	{
+		height:800px;
+		width:1340px;
+		background-color:rgba(0,0,0,0.5);
+		padding-left:-500px;
+	}
+	.sec1 h4
+	{
+		padding-top:500px;
+		font-weight:8px;
+		font-size:25px;
+		font-family:"Times New Roman", Times, serif;
+		letter-spacing:px;
+		word-spacing:3px;
+	}
+	.back1
+	{
+		width:100%;
+		float:left;
+		margin-top:-70px;
+	}
+	.w17
+	{
+		padding:0px;
+	}
+		.w17 p
+	{
+		text-align:center;
+		font-size:16px;
+		font-weight:1;
+		color:black;
+		letter-spacing:5px;
+		margin-top:-50px;
+	}
+	.new1
+	{
+		width:20%;
+		height:300px;
+		padding-left:100px;
+		margin-top:30px;	
+	}
+	.new2
+	{
+		width:20%;
+		height:300px;
+		padding-left:400px;
+		margin-top:-300px;	
+	}
+	.new3
+	{
+		width:20%;
+		height:300px;
+		padding-left:700px;
+		margin-top:-300px;	
+	}
+	.new4
+	{
+		width:20%;
+		height:300px;
+		padding-left:1000px;
+		margin-top:-300px;	
+	}
+	.ima10
+	{
+		padding:0px;
+	}
+	.ima11
+	{
+		padding:0px;
+	}
+	.ima12
+	{
+		padding:0px;
+	}
+	.ima13
+	{
+		padding:0px;
+	}
+	.wed
+	{
+ 		background-color:white ;
+ 					height:40px;
+  							width:100PX;
+							border:1px groove;
+ 				padding-left:14px;
+				margin-left:23px;
+				margin-top:20px;
+				color:black;
+	}
+	.wed:hover
+	{
+		background-color:#f24d5f;
+		color:white;
+	}
+	.wed1
+	{
+ 		background-color:white ;
+ 					height:40px;
+  							width:100PX;
+							border:1px groove;
+ 				padding-left:14px;
+				margin-left:23px;
+				margin-top:20px;
+				color:black;
+	}
+	.wed1:hover
+	{
+		background-color:#f24d5f;
+		color:white;
+	}
+	.new5 
+	{
+	padding:0px;
+	}
+	.new5 h2
+	{
+		font-size:25px;
+		margin-left:-900px;
+		margin-top:-30px;
+		line-height:30px;
+	}
+	.new5 h5
+	{
+		padding-left:-10px;
+		font-size:18px;
+		color:#23282d;
+		letter-spacing:0px;
+		padding-top:0px;
+		line-height:20px;
+				margin-left:120px;
+	}
+	.new5 p
+	{
+ 		background-color:white ;
+ 					height:30px;
+  							width:190px;;
+							border:1px groove;
+ 				padding-left:18px;
+				margin-left:105px;
+				margin-top:20px;
+				color:black;
+				font-family:"Times New Roman", Times, serif;
+				letter-spacing:3px;
+				font-size:14px;
+	}
+.new6 
+	{
+	padding:0px;
+	}
+	.new6 h2
+	{
+		font-size:25px;
+		margin-left:-280px;
+		margin-top:-280px;
+		line-height:30px;
+	}
+	.new6 h5
+	{
+		padding-left:-10px;
+		font-size:18px;
+		color:#23282d;
+		letter-spacing:0px;
+		padding-top:0px;
+		line-height:20px;
+				margin-left:420px;
+	}
+	.new6 p
+	{
+ 		background-color:white ;
+ 					height:30px;
+  							width:190px;;
+							border:1px groove;
+ 				padding-left:18px;
+				margin-left:408px;
+				margin-top:20px;
+				color:black;
+				font-family:"Times New Roman", Times, serif;
+				letter-spacing:3px;
+				font-size:14px;
+	}
+.new7 
+	{
+	padding:0px;
+	}
+	.new7 h2
+	{
+		font-size:25px;
+		padding-left:300px;
+		margin-top:-255px;
+		line-height:30px;
+	}
+	.new7 h5
+	{
+		padding-left:-10px;
+		font-size:18px;
+		color:#23282d;
+		letter-spacing:0px;
+		padding-top:0px;
+		line-height:20px;
+				margin-left:720px;
+	}
+	.new7 p
+	{
+ 		background-color:white ;
+ 					height:30px;
+  							width:190px;;
+							border:1px groove;
+ 				padding-left:18px;
+				margin-left:720px;
+				margin-top:20px;
+				color:black;
+				font-family:"Times New Roman", Times, serif;
+				letter-spacing:3px;
+				font-size:14px;
+	}
+.new8
+	{
+	padding:0px;
+	}
+	.new8 h2
+	{
+		font-size:25px;
+		margin-left:900px;
+		margin-top:-236px;
+		line-height:30px;
+	}
+	.new8 h5
+	{
+		padding-left:-10px;
+		font-size:18px;
+		color:#23282d;
+		letter-spacing:0px;
+		padding-top:0px;
+		line-height:20px;
+				margin-left:1010px;
+	}
+	.new8 p
+	{
+ 		background-color:white ;
+ 					height:30px;
+  							width:190px;;
+							border:1px groove;
+ 				padding-left:18px;
+				margin-left:998px;
+				margin-top:20px;
+				color:black;
+				font-family:"Times New Roman", Times, serif;
+				letter-spacing:3px;
+				font-size:14px;
+	}
+   .ne1
+	{
+		width:20%;
+		height:300px;
+		margin-left:100px;
+		margin-top:200px;	
+	}
+	.ne2
+	{
+		width:20%;
+		height:300px;
+		margin-left:400px;
+		margin-top:-300px;	
+	}
+	.ne3
+	{
+		width:20%;
+		height:300px;
+		margin-left:700px;
+		margin-top:-300px;	
+	}
+	.ne4
+	{
+		width:20%;
+		height:300px;
+		margin-left:1000px;
+		margin-top:-300px;	
+	}
+	.w18
+	{
+		width:110%;
+		height:350px;
+		background:url(../Wedding/assets/images/footer-couple.png);
+		background-repeat:no-repeat;
+		margin-left:-200px;
+		padding-top:350px;
+	}
+	.i1
+	{
+	 margin-left:700px;
+	}
+	.a
+	{
+		position:fixed;
+		width:80px;
+		height:50px;
+		bottom:0;
+		right:0;
+		background:url(../Wedding/assets/images/music/heart-3.png);
+		background-repeat:no-repeat;
+	}
